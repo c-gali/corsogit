@@ -1,8 +1,9 @@
-﻿riempimentoriempimentoriempimento 
+﻿riempimentoriempimentoriempimento
 corso git
 rerum
 fase 2
 errore orrore
-guarda questo file. diverge
-questo file è un nuovo file che sarà riunito dopo
-questa riga è stata aggiunta sul branch nuovobranch
+
+
+nuovo ramo prova
+
